@@ -8,7 +8,7 @@
 # Приложения
 [Git (система управления версиями)](https://git-scm.com/download/win)
 
-[Среда разработки Code::Blocks](https://www.codeblocks.org/downloads/)
+[Среда разработки Code::Blocks](http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows). Скачивайте версию, включающую mingw. Например codeblocks-20.03mingw-setup.exe.
 
 
 # Задание 1 
