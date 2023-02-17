@@ -5,6 +5,11 @@
 
 [Бьерн Страуструп. Язык программирования С++](https://disk.yandex.ru/i/cEOSIjkIK_F7rQ)
 
+#Приложения
+[Git (система управления версиями)](https://git-scm.com/download/win)
+
+[Среда разработки Code::Blocks](https://www.codeblocks.org/downloads/)
+
 
 # Задание 1 
 1. Зарегистрируйтесь на github.com
