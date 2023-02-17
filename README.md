@@ -5,7 +5,7 @@
 
 [Бьерн Страуструп. Язык программирования С++](https://disk.yandex.ru/i/cEOSIjkIK_F7rQ)
 
-#Приложения
+# Приложения
 [Git (система управления версиями)](https://git-scm.com/download/win)
 
 [Среда разработки Code::Blocks](https://www.codeblocks.org/downloads/)
