@@ -8,6 +8,8 @@
 # Приложения
 [Git (система управления версиями)](https://git-scm.com/download/win)
 
+[Портативная версия git](https://github.com/git-for-windows/git/releases/download/v2.39.2.windows.1/PortableGit-2.39.2-32-bit.7z.exe)
+
 [Среда разработки Code::Blocks](http://www.codeblocks.org/downloads/binaries/#imagesoswindows48pnglogo-microsoft-windows). Скачивайте версию, включающую mingw. Например codeblocks-20.03mingw-setup.exe.
 
 # Об ошибках при написании программ на С++
