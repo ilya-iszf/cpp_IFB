@@ -9,7 +9,7 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--|--|
-|Агеев Р.В.|:+1::+1:|![52%](https://progress-bar.dev/52/?title=11)|
+|Агеев Р.В.|:+1::+1:|![71%](https://progress-bar.dev/71/?title=15)|
 |Анисимова К.В.|:+1:|![38%](https://progress-bar.dev/38/?title=8)|
 |Аршикова А.Г.||![0%](https://progress-bar.dev/0/?title=0)|
 |Белянинов М.О.|:+1::+1::star:|![104%](https://progress-bar.dev/104/?title=22)|
@@ -25,6 +25,7 @@
 |Трусков О.В.||![47%](https://progress-bar.dev/47/?title=10)|
 |Фаридуни М. ||![0%](https://progress-bar.dev/0/?title=0)|
 |Худеев А.А.||![0%](https://progress-bar.dev/0/?title=0)|
+
 
 
 
