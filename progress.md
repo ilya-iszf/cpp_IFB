@@ -15,27 +15,13 @@
 |Белянинов М.О.|:+1::+1::star:|![104%](https://progress-bar.dev/104/?title=22)|
 |Воронов К.С.|:+1::+1::fire:|![133%](https://progress-bar.dev/133/?title=28)|
 |Галкин М.Е.||![0%](https://progress-bar.dev/0/?title=0)|
-|Котяева К.Н.||![0%](https://progress-bar.dev/0/?title=0)|
+|Котяева К.Н.|:+1:|![23%](https://progress-bar.dev/23/?title=5)|
 |Куприйчук В.А.||![0%](https://progress-bar.dev/0/?title=0)|
 |Манзарханов А.Н.|:+1:|![33%](https://progress-bar.dev/33/?title=7)|
 |Михаханов А.А.|:+1::+1::star:|![109%](https://progress-bar.dev/109/?title=23)|
 |Сапажкова В.А.|:+1::+1::fire:|![138%](https://progress-bar.dev/138/?title=29)|
-|Силаков И.А.|:+1::+1:|![66%](https://progress-bar.dev/66/?title=14)|
+|Силаков И.А.|:+1::+1:|![85%](https://progress-bar.dev/85/?title=18)|
 |Торноев Г.А.||![14%](https://progress-bar.dev/14/?title=3)|
-|Трусков О.В.||![47%](https://progress-bar.dev/47/?title=10)|
+|Трусков О.В.||![57%](https://progress-bar.dev/57/?title=12)|
 |Фаридуни М. ||![0%](https://progress-bar.dev/0/?title=0)|
 |Худеев А.А.||![0%](https://progress-bar.dev/0/?title=0)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
