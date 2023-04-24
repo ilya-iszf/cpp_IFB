@@ -10,7 +10,7 @@
 |ФИО| доп. | Выполнено|
 |---|--|--|
 |Агеев Р.В.|:+1::+1:|![71%](https://progress-bar.dev/71/?title=15)|
-|Анисимова К.В.|:+1:|![38%](https://progress-bar.dev/38/?title=8)|
+|Анисимова К.В.|:+1::+1:|![57%](https://progress-bar.dev/57/?title=12)|
 |Аршикова А.Г.||![0%](https://progress-bar.dev/0/?title=0)|
 |Белянинов М.О.|:+1::+1::star:|![104%](https://progress-bar.dev/104/?title=22)|
 |Воронов К.С.|:+1::+1::fire:|![133%](https://progress-bar.dev/133/?title=28)|
@@ -25,3 +25,4 @@
 |Трусков О.В.||![57%](https://progress-bar.dev/57/?title=12)|
 |Фаридуни М. ||![0%](https://progress-bar.dev/0/?title=0)|
 |Худеев А.А.||![0%](https://progress-bar.dev/0/?title=0)|
+
