@@ -10,14 +10,14 @@
 |ФИО| доп. | Выполнено|
 |---|--|--|
 |Агеев Р.В.|:+1::+1:|![71%](https://progress-bar.dev/71/?title=15)|
-|Анисимова К.В.|:+1::+1:|![57%](https://progress-bar.dev/57/?title=12)|
+|Анисимова К.В.|:+1::+1:|![76%](https://progress-bar.dev/76/?title=16)|
 |Аршикова А.Г.||![0%](https://progress-bar.dev/0/?title=0)|
 |Белянинов М.О.|:+1::+1::star:|![104%](https://progress-bar.dev/104/?title=22)|
 |Воронов К.С.|:+1::+1::fire:|![133%](https://progress-bar.dev/133/?title=28)|
 |Галкин М.Е.||![0%](https://progress-bar.dev/0/?title=0)|
 |Котяева К.Н.|:+1:|![23%](https://progress-bar.dev/23/?title=5)|
 |Куприйчук В.А.||![0%](https://progress-bar.dev/0/?title=0)|
-|Манзарханов А.Н.|:+1:|![33%](https://progress-bar.dev/33/?title=7)|
+|Манзарханов А.Н.|:+1::+1:|![52%](https://progress-bar.dev/52/?title=11)|
 |Михаханов А.А.|:+1::+1::star:|![109%](https://progress-bar.dev/109/?title=23)|
 |Сапажкова В.А.|:+1::+1::fire:|![138%](https://progress-bar.dev/138/?title=29)|
 |Силаков И.А.|:+1::+1:|![85%](https://progress-bar.dev/85/?title=18)|
