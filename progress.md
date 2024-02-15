@@ -9,19 +9,17 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Ануфриев   |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Аюшиев |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Борисов    |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Галкин |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Гармаев    |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Горобец    |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Канов  |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Коркин |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Куприйчук  |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Кучменов   |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Осипов |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Трифонова  |  |![0%](https://progress-bar.dev/0/?title=0)|
-|Трусков    |  |![0%](https://progress-bar.dev/0/?title=0)|
+|Аюшиев Б.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Гармаев Б.Т.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Горобец О.Д.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Канов А.Р.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Кучменов А.Х.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Осипов А.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Трифонова В.Н.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=0)|
+
                                                                    
 
 
