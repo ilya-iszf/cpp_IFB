@@ -12,13 +12,14 @@
 |Аюшиев Б.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Гармаев Б.Т.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Горобец О.Д.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Канов А.Р.|  |![9%](https://progress-bar.dev/9/?title=2)|
+|Канов А.Р.|  |![19%](https://progress-bar.dev/19/?title=4)|
 |Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Куприйчук В.А.|  |![-5%](https://progress-bar.dev/0/?title=-1)|
-|Кучменов А.Х.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=-2)|
+|Кучменов А.Х.|  |![14%](https://progress-bar.dev/14/?title=3)|
 |Осипов А.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Трифонова В.Н.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Трусков О.В.|  |![-5%](https://progress-bar.dev/0/?title=-1)|
+|Трифонова В.Н.|  |![4%](https://progress-bar.dev/4/?title=1)|
+|Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-2)|
+
 
                                                                    
 
