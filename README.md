@@ -5,6 +5,8 @@
 
 [Бьерн Страуструп. Язык программирования С++](https://disk.yandex.ru/i/cEOSIjkIK_F7rQ)
 
+[Онлайн-курс по основам С++](https://www.youtube.com/watch?v=TQyIJ4xHOEE&list=PLQOaTSbfxUtCrKs0nicOg2npJQYSPGO9r&index=4) 
+
 # Приложения
 [Git (система управления версиями)](https://git-scm.com/download/win)
 
