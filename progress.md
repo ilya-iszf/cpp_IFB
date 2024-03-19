@@ -17,9 +17,10 @@
 |Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=-2&color=ff0000)|
 |Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=-2&color=ff0000)|
 |Кучменов А.Х.|  :+1:|![42%](https://progress-bar.dev/42/?title=9)|
-|Осипов А.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
+|Осипов А.А.|  |![19%](https://progress-bar.dev/19/?title=4)|
 |Трифонова В.Н.|  |![9%](https://progress-bar.dev/9/?title=2)|
 |Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
+
 
 
 
