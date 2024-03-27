@@ -17,8 +17,9 @@
 |Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Кучменов А.Х.|  :+1:|![52%](https://progress-bar.dev/52/?title=11)|
 |Осипов А.А.|  :+1::+1:|![47%](https://progress-bar.dev/47/?title=10)|
-|Трифонова В.Н.|  |![9%](https://progress-bar.dev/9/?title=2)|
+|Трифонова В.Н.|  |![14%](https://progress-bar.dev/14/?title=3)|
 |Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
+
 
 
 
