@@ -9,16 +9,17 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Аюшиев Б.А.|  |![4%](https://progress-bar.dev/4/?title=1)|
+|Аюшиев Б.А.|  |![14%](https://progress-bar.dev/14/?title=3)|
 |Гармаев Б.Т.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Горобец О.Д.|  :+1:|![38%](https://progress-bar.dev/38/?title=8)|
-|Канов А.Р.|  :+1:|![47%](https://progress-bar.dev/47/?title=10)|
+|Горобец О.Д.|  :+1:|![61%](https://progress-bar.dev/61/?title=13)|
+|Канов А.Р.|  :+1:|![52%](https://progress-bar.dev/52/?title=11)|
 |Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
-|Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
+|Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
 |Кучменов А.Х.|  :+1:|![52%](https://progress-bar.dev/52/?title=11)|
 |Осипов А.А.|  :+1::+1:|![47%](https://progress-bar.dev/47/?title=10)|
-|Трифонова В.Н.|  |![4%](https://progress-bar.dev/4/?title=1)|
+|Трифонова В.Н.|  |![9%](https://progress-bar.dev/9/?title=2)|
 |Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
+
 
 
 
