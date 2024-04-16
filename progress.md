@@ -15,33 +15,7 @@
 |Канов А.Р.|  :+1::+1:|![85%](https://progress-bar.dev/85/?title=18)|
 |Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=-4&color=ff0000)|
 |Куприйчук В.А.|  |![0%](https://progress-bar.dev/0/?title=0)|
-|Кучменов А.Х.|  :+1::+1::+1:|![80%](https://progress-bar.dev/80/?title=17)|
+|Кучменов А.Х.|  :+1::+1::+1:|![90%](https://progress-bar.dev/90/?title=19)|
 |Осипов А.А.|  :+1::+1::fire:|![90%](https://progress-bar.dev/90/?title=19)|
 |Трифонова В.Н.|  :+1:|![42%](https://progress-bar.dev/42/?title=9)|
 |Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-3&color=ff0000)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                   
-
-
-
-
-
-
-
-
-
-
-
-
