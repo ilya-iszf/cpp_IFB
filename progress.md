@@ -14,11 +14,12 @@
 |Горобец О.Д.|  :+1::+1::star:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Канов А.Р.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Коркин И.А.|  |![0%](https://progress-bar.dev/0/?title=-4&color=ff0000)|
-|Куприйчук В.А.|  :+1::+1::+1:|![80%](https://progress-bar.dev/80/?title=17)|
+|Куприйчук В.А.|  :+1::+1::+1:|![95%](https://progress-bar.dev/95/?title=20)|
 |Кучменов А.Х.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Осипов А.А.|  :+1::+1::fire:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Трифонова В.Н.|  :+1:|![42%](https://progress-bar.dev/42/?title=9)|
 |Трусков О.В.|  |![0%](https://progress-bar.dev/0/?title=-2&color=ff0000)|
+
 
 
 
