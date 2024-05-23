@@ -18,7 +18,8 @@
 |Кучменов А.Х.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Осипов А.А.|  :+1::+1::fire:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Трифонова В.Н.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
-|Трусков О.В.|  |![19%](https://progress-bar.dev/19/?title=4)|
+|Трусков О.В.|  :+1::+1:|![47%](https://progress-bar.dev/47/?title=10)|
+
 
 
 
