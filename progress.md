@@ -9,7 +9,7 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Аюшиев Б.А.|  :+1::+1::+1:|![76%](https://progress-bar.dev/76/?title=16)|
+|Аюшиев Б.А.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Гармаев Б.Т.|  :+1::+1::star:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Горобец О.Д.|  :+1::+1::star:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Канов А.Р.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
@@ -18,7 +18,8 @@
 |Кучменов А.Х.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Осипов А.А.|  :+1::+1::fire:|![100%](https://progress-bar.dev/100/?title=зчт)|
 |Трифонова В.Н.|  :+1::+1::+1:|![100%](https://progress-bar.dev/100/?title=зчт)|
-|Трусков О.В.|  :+1::+1:|![52%](https://progress-bar.dev/52/?title=11)|
+|Трусков О.В.|  :+1::+1:|![80%](https://progress-bar.dev/80/?title=17)|
+
 
 
 
