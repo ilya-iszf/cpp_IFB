@@ -13,7 +13,7 @@
 |Белых Я.Р.|  |![0%](https://progress-bar.xyz/0/?title=-3&color=ff0000)|
 |Галкин М.Е.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Демешко В.В.|  |![0%](https://progress-bar.xyz/0/?title=-5&color=ff0000)|
-|Доорбек кызы Б.|  |![23%](https://progress-bar.xyz/23/?title=5)|
+|Доорбек кызы Б.|  |![33%](https://progress-bar.xyz/33/?title=7)|
 |Кантышев Д.П.|  :star::fire::fire:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Каткова А.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Князев Н.Л.|  |![52%](https://progress-bar.xyz/52/?title=11)|
