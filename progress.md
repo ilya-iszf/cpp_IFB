@@ -9,18 +9,18 @@
 Прогресс в выполнении заданий 
 |ФИО| доп. | Выполнено|
 |---|--:|--|
-|Анциферов Р.А.|  :+1:|![14%](https://progress-bar.xyz/14/?title=3)|
-|Белых Я.Р.|  |![0%](https://progress-bar.xyz/0/?title=-3&color=ff0000)|
+|Анциферов Р.А.|  :+1::+1::+1::star:|![95%](https://progress-bar.xyz/95/?title=20)|
+|Белых Я.Р.|  |![0%](https://progress-bar.xyz/0/?title=-2&color=ff0000)|
 |Галкин М.Е.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
 |Демешко В.В.|  |![0%](https://progress-bar.xyz/0/?title=-5&color=ff0000)|
-|Доорбек кызы Б.|  |![33%](https://progress-bar.xyz/33/?title=7)|
+|Доорбек кызы Б.|  |![42%](https://progress-bar.xyz/42/?title=9)|
 |Кантышев Д.П.|  :star::fire::fire:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Каткова А.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
-|Князев Н.Л.|  |![52%](https://progress-bar.xyz/52/?title=11)|
+|Князев Н.Л.|  :+1::+1:|![80%](https://progress-bar.xyz/80/?title=17)|
 |Милостивая М.В.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
-|Московских А.Э.|  |![0%](https://progress-bar.xyz/0/?title=-1&color=ff0000)|
-|Новоселова А.А.|  |![33%](https://progress-bar.xyz/33/?title=7)|
+|Московских А.Э.|  |![19%](https://progress-bar.xyz/19/?title=4)|
+|Новоселова А.А.|  |![52%](https://progress-bar.xyz/52/?title=11)|
 |Пичугин Я.А.|  :+1:|![14%](https://progress-bar.xyz/14/?title=3)|
 |Сиденов А.Б.|  |![0%](https://progress-bar.xyz/0/?title=-5&color=ff0000)|
-|Тещук М.А.|  :+1:|![47%](https://progress-bar.xyz/47/?title=10)|
+|Тещук М.А.|  :+1::star:|![76%](https://progress-bar.xyz/76/?title=16)|
 |Чихачев Н.А.|  |![0%](https://progress-bar.xyz/0/?title=0)|
