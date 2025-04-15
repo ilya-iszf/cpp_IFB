@@ -15,7 +15,7 @@
 |Демешко В.В.|  |![0%](https://progress-bar.xyz/0/?title=-7&color=ff0000)|
 |Доорбек кызы Б.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Кантышев Д.П.|  :star::fire::fire:|![109%](https://progress-bar.xyz/109/?title=зчт)|
-|Каткова А.А.|  :+1::+1:|![90%](https://progress-bar.xyz/90/?title=19)|
+|Каткова А.А.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Князев Н.Л.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Милостивая М.В.|  |![14%](https://progress-bar.xyz/14/?title=3)|
 |Московских А.Э.|  :+1::+1:|![47%](https://progress-bar.xyz/47/?title=10)|
