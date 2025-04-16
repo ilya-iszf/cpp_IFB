@@ -10,7 +10,7 @@
 |ФИО| доп. | Выполнено|
 |---|--:|--|
 |Анциферов Р.А.|  :+1::+1::+1::star:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Белых Я.Р.|  :+1::+1::+1::star:|![90%](https://progress-bar.xyz/90/?title=19)|
+|Белых Я.Р.|  :+1::+1::+1::star:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Галкин М.Е.|  |![4%](https://progress-bar.xyz/4/?title=1)|
 |Демешко В.В.|  |![0%](https://progress-bar.xyz/0/?title=-7&color=ff0000)|
 |Доорбек кызы Б.|  :+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
