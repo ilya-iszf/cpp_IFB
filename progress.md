@@ -19,7 +19,7 @@
 |Князев Н.Л.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Милостивая М.В.|  |![14%](https://progress-bar.xyz/14/?title=3)|
 |Московских А.Э.|  :+1::+1:|![47%](https://progress-bar.xyz/47/?title=10)|
-|Новоселова А.А.|  :+1:|![85%](https://progress-bar.xyz/85/?title=18)|
+|Новоселова А.А.|  :+1::+1::+1:|![114%](https://progress-bar.xyz/114/?title=зчт)|
 |Пичугин Я.А.|  :+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Сиденов А.Б.|  |![0%](https://progress-bar.xyz/0/?title=-7&color=ff0000)|
 |Тещук М.А.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
