@@ -16,8 +16,8 @@
 |Кантышев Д.П.|  :star::fire::fire:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Каткова А.А.|  :+1::+1::+1:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Князев Н.Л.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
-|Милостивая М.В.|  |![57%](https://progress-bar.xyz/57/?title=12)|
-|Московских А.Э.|  :+1::+1::+1:|![66%](https://progress-bar.xyz/66/?title=14)|
+|Милостивая М.В.|  :+1::+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
+|Московских А.Э.|  :+1::+1::+1:|![100%](https://progress-bar.xyz/100/?title=зчт)|
 |Новоселова А.А.|  :+1::+1::+1:|![114%](https://progress-bar.xyz/114/?title=зчт)|
 |Пичугин Я.А.|  :+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Тещук М.А.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
