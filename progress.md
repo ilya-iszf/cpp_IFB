@@ -22,3 +22,6 @@
 |Пичугин Я.А.|  :+1::+1:|![109%](https://progress-bar.xyz/109/?title=зчт)|
 |Тещук М.А.|  :+1::+1::+1::star:|![104%](https://progress-bar.xyz/104/?title=зчт)|
 |Чихачев Н.А.|  :+1:|![71%](https://progress-bar.xyz/71/?title=15)|
+
+[//]: # (https://github.com/nikita142144/CPP.nikita.ckhichacev.IFB-22-1)
+[//]: # (https://github.com/Vladislav-Dm/CPP)
