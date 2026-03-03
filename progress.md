@@ -13,9 +13,9 @@
 |Белых Р.Г.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Ганин В.А.||  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Гребенников А.В.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)|
-|Донской Г.А.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)|
+|Донской Г.А.| :heavy_check_mark:|  |![9%](https://progress-bar.xyz/9/?title=2)|
 |Исаев А.С.||  |![0%](https://progress-bar.xyz/0/?title=0)|
-|Канаев Д.В.||  |![0%](https://progress-bar.xyz/0/?title=0)|
+|Канаев Д.В.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Кокорина А.Б.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Татаринов А.Д.||  |![0%](https://progress-bar.xyz/0/?title=0)|
 |Халапхаев П.И.||  |![0%](https://progress-bar.xyz/0/?title=0)|
