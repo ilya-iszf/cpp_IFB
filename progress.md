@@ -9,11 +9,8 @@
 Прогресс в выполнении заданий 
 |ФИО|git| доп. | Выполнено| не приняты |
 |---|---|--:|--|--|
-|Андреев Д.В.||  |![0%](https://progress-bar.xyz/0/?title=0)| |
-|Грачев И.Р.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)| |
-|Дугаров С.Б.||  |![0%](https://progress-bar.xyz/0/?title=0)| |
-|Логачев А.В.||  |![0%](https://progress-bar.xyz/0/?title=0)| |
-|Мельников Д.С.| :heavy_check_mark:|  |![28%](https://progress-bar.xyz/28/?title=6)||
-|Попов А.Д.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=0)||
-|Пустоваров Н.С.||  |![0%](https://progress-bar.xyz/0/?title=0)| |
-|Чернышов Я.Ю.| :heavy_check_mark:|  :+1::star::fire:|![109%](https://progress-bar.xyz/109/?title=зчт)| впечатляет! |
+|Иванов И.И.| :heavy_check_mark:|  |![0%](https://progress-bar.xyz/0/?title=-4&color=ff0000)| |
+|Петров П.П.| :heavy_check_mark:|  :+1::+1::star::fire:|![100%](https://progress-bar.xyz/100/?title=зчт)| |
+|Летов И.Ф.| :heavy_check_mark:|  :+1::fire:|![104%](https://progress-bar.xyz/104/?title=зчт)| |
+|Федоров М.Я.| :heavy_check_mark:|  :fire::fire:|![87%](https://progress-bar.xyz/87/?title=зчт)| |
+|Машнов В.В| :heavy_check_mark:|  :star::star::star:|![104%](https://progress-bar.xyz/104/?title=зчт)||
